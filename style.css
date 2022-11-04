@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(226, 222, 222);
+}
+
+.main-wrapper {
+  margin: 100px auto;
+  max-width: fit-content;
+  height: auto;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+button {
+  background-color: darkcyan;
+  color: white;
+  font-size: larger;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+h1,
+h2,
+p,
+input {
+  padding: 10px;
+}
